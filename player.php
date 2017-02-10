@@ -1,5 +1,5 @@
 <?php
-include('global.php');
+include('global/global.php');
 $query = "select * from properties";
 if ($result = $conn->query($query)) {
     ?>

@@ -13,7 +13,7 @@ include('database.php');
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-    <title>Rent4Sure</title>
+    <title><?php echo $pagetitle ?></title>
 
 
 </head>
@@ -21,8 +21,10 @@ include('database.php');
 <div class="container">
     <div class="row">
         <div class="header">
+
             <div class="col-md-4">
-                <a href="index.php"><img src="https://rent4sure.co.uk/assets/cfw/img/logo.png" alt="Logo"></a>
+                <a href="https://www.rebornroleplay.com"><img src="https://www.rebornroleplay.com/uploads/monthly_2016_10/logo.png.fe428a0c53eb4ab77fdccdd1091bcc9f.png" alt="Logo"></a>
             </div>
+            <div class="col-md-4"><h1>Altis Citizen Database</h1></div>
         </div>
     </div>
