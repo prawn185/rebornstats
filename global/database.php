@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "Rent4Sure";
+$dbname = "dev_altislife";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
