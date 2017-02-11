@@ -1,0 +1,8 @@
+.item-player{
+    border-bottom: 0.5px solid #cccccc;
+}
+.civ-head{
+    background-color: chartreuse;
+    padding:15px;
+    border-radius: 2px;
+}
