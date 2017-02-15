@@ -1,8 +1,22 @@
-.item-player{
+.panel-body{
     border-bottom: 0.5px solid #cccccc;
+    min-height: 50px;
 }
 .civ-head{
-    background-color: chartreuse;
+    background-color: #82d233;
     padding:15px;
     border-radius: 2px;
+}
+.police-head{
+    background-color: #337ad2;
+    padding:15px;
+    border-radius: 2px;
+}
+.rebel-head{
+    background-color: #ca0000;
+    padding:15px;
+    border-radius: 2px;
+}
+.panel-title{
+    font-family: 'Lato', sans-serif;
 }
