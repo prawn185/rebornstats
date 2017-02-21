@@ -16,6 +16,10 @@ include('database.php');
 
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+
+    <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+
     <style>
         <?php include_once('player.css'); ?>
     </style>

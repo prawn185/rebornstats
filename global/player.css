@@ -9,11 +9,13 @@
 }
 .police-head{
     background-color: #337ad2;
+    color: #ffffff;
     padding:15px;
     border-radius: 2px;
 }
 .rebel-head{
     background-color: #ca0000;
+    color: #ffffff;
     padding:15px;
     border-radius: 2px;
 }
